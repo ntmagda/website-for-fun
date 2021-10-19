@@ -1,0 +1,9 @@
+baseUrl: 'http://serious.localhost:8080'
+enabled: true
+handle: seriousWebsiteEn
+hasUrls: true
+language: en
+name: serious-website-en
+primary: false
+siteGroup: 131ecefc-9bcc-432d-ae2a-17248a36ee73 # serious-website
+sortOrder: 4

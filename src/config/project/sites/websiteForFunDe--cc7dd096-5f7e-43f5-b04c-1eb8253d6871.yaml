@@ -1,0 +1,9 @@
+baseUrl: 'http://localhost:8080/de/'
+enabled: true
+handle: websiteForFunDe
+hasUrls: true
+language: de
+name: website-for-fun-de
+primary: false
+siteGroup: 6fadad13-a2a2-4a53-9a38-3fa3bb4cfad6 # website-for-fun
+sortOrder: 2

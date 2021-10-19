@@ -1,0 +1,19 @@
+columnSuffix: pgqkmpyd
+contentColumnType: string(2000)
+fieldGroup: ed5795b3-b92e-4820-846a-f650f192044a # Common
+handle: pageTitle
+instructions: ''
+name: 'Page Title'
+searchable: false
+settings:
+  byteLimit: null
+  charLimit: 500
+  code: ''
+  columnType: null
+  initialRows: '4'
+  multiline: ''
+  placeholder: null
+  uiMode: normal
+translationKeyFormat: null
+translationMethod: site
+type: craft\fields\PlainText

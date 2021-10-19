@@ -1,0 +1,12 @@
+# Craft CMS
+.env
+.idea
+vendor
+google-application-credentials.json
+
+# web/media
+web/cache/blitz
+web/media
+
+# Google Cloud
+google-application-credentials.json

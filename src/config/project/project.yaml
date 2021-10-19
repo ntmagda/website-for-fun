@@ -1,0 +1,31 @@
+dateModified: 1634568981
+email:
+  fromEmail: magda.nowak-trzos@unternehmertum.de
+  fromName: stmd-website
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    6fadad13-a2a2-4a53-9a38-3fa3bb4cfad6: website-for-fun # website-for-fun
+    8b40cbfb-e780-4daf-bbf2-7d9160cc9fb1: serious-website-de # serious-website-de
+    9e9ace30-1940-4424-bf3c-713d3d69cf40: Homepage # Homepage
+    131ecefc-9bcc-432d-ae2a-17248a36ee73: serious-website # serious-website
+    9377c0ea-5380-4e76-b829-5d5a0bfcb31a: Homepage # Homepage
+    bb6ccab3-a266-442a-b70d-39c06a169586: website-for-fun-en # website-for-fun-en
+    c0bb2b4d-6685-4449-b61d-b89f3f920dcc: serious-website-en # serious-website-en
+    cc7dd096-5f7e-43f5-b04c-1eb8253d6871: website-for-fun-de # website-for-fun-de
+    e6bc4c1a-6698-455c-83ab-670f3f08c045: 'Page Title' # Page Title
+    ed5795b3-b92e-4820-846a-f650f192044a: Common # Common
+    f4d8a205-28a0-4759-b941-6eed5f1f66fb: 'Page Sub Title' # Page Sub Title
+system:
+  edition: solo
+  live: true
+  name: website-for-fun
+  retryDuration: null
+  schemaVersion: 3.7.8
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  requireEmailVerification: true

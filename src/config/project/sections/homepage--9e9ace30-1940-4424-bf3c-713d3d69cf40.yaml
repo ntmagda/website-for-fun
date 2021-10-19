@@ -1,0 +1,27 @@
+defaultPlacement: end
+enableVersioning: true
+handle: homepage
+name: Homepage
+propagationMethod: all
+siteSettings:
+  8b40cbfb-e780-4daf-bbf2-7d9160cc9fb1: # serious-website-de
+    enabledByDefault: true
+    hasUrls: true
+    template: index.twig
+    uriFormat: __home__
+  bb6ccab3-a266-442a-b70d-39c06a169586: # website-for-fun-en
+    enabledByDefault: true
+    hasUrls: true
+    template: index.twig
+    uriFormat: __home__
+  c0bb2b4d-6685-4449-b61d-b89f3f920dcc: # serious-website-en
+    enabledByDefault: true
+    hasUrls: true
+    template: index.twig
+    uriFormat: __home__
+  cc7dd096-5f7e-43f5-b04c-1eb8253d6871: # website-for-fun-de
+    enabledByDefault: true
+    hasUrls: true
+    template: index.twig
+    uriFormat: __home__
+type: single
