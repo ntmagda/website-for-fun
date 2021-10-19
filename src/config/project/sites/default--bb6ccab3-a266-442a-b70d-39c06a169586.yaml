@@ -1,4 +1,4 @@
-baseUrl: 'http://localhost:8080'
+baseUrl: $FUN_SITE_URL_EN
 enabled: true
 handle: default
 hasUrls: true

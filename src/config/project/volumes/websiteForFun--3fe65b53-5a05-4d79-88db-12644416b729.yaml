@@ -1,0 +1,46 @@
+fieldLayouts:
+  4b246eac-7264-43cd-b8c1-8e8f1757d6fb:
+    tabs:
+      -
+        elements:
+          -
+            autocapitalize: true
+            autocomplete: false
+            autocorrect: true
+            class: null
+            disabled: false
+            id: null
+            instructions: null
+            label: null
+            max: null
+            min: null
+            name: null
+            orientation: null
+            placeholder: null
+            readonly: false
+            requirable: false
+            size: null
+            step: null
+            tip: null
+            title: null
+            type: craft\fieldlayoutelements\AssetTitleField
+            warning: null
+            width: 100
+        name: Content
+        sortOrder: 1
+handle: websiteForFun
+hasUrls: true
+name: website-for-fun
+settings:
+  cdnUrlPattern: ''
+  customSubfolder: webite-for-fun
+  makeUploadsPublic: true
+  optimisePrefix: ''
+  optimiseUrlPattern: ''
+  projectSlug: ''
+  securityKey: ''
+sortOrder: 1
+titleTranslationKeyFormat: null
+titleTranslationMethod: site
+type: servd\AssetStorage\Volume
+url: 'https://cdn2.assets-servd.host/'

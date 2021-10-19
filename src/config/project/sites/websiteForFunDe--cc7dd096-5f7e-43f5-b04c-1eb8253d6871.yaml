@@ -1,4 +1,4 @@
-baseUrl: 'http://localhost:8080/de/'
+baseUrl: $FUN_SITE_URL_DE
 enabled: true
 handle: websiteForFunDe
 hasUrls: true

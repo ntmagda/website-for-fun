@@ -1,4 +1,4 @@
-baseUrl: 'http://serious.localhost:8080/de/'
+baseUrl: $SERIOUS_SITE_URL_DE
 enabled: true
 handle: seriousWebsiteDe
 hasUrls: true

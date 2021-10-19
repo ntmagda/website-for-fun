@@ -1,6 +1,7 @@
 {
   "require": {
     "craftcms/cms": "^3.6.4",
+    "servd/craft-asset-storage": "2.4.6",
     "vlucas/phpdotenv": "^3.4.0"
   },
   "require-dev": {
