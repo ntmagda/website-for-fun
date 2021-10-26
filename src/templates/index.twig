@@ -3,16 +3,16 @@
 
 {% block body %}
   <header class="header">
-    <div class="logo-box">
-        <img src={{entry.heroImage.one().getUrl()}} alt="logo" class="logo">
+    <div class="header__logo-box">
+        <img src={{entry.heroImage.one().getUrl()}} alt="logo" class="header__logo">
 
     </div>    
-    <div class ="heading">
+    <div class ="header__text-box">
         <h1 class="heading-primary">
-            <span class="heading-primary-main">{{ entry.pageTitle }}</span>
-            <span class="heading-primary-sub"> {{entry.pageSubTitle}} </span>
+            <span class="heading-primary--main">{{ entry.pageTitle }}</span>
+            <span class="heading-primary--sub"> {{entry.pageSubTitle}} </span>
         </h1>
-        <a href="#" class="btn btn-white">Discover more</a>
+        <a href="#" class="btn btn--white">Discover more</a>
     </div>
 </header>
 {% endblock %}
